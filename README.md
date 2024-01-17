@@ -30,7 +30,9 @@ LinkedIn : https://www.linkedin.com/in/carlinfongang/
 In this project, I deployed the "student_list" application, whose role is to display the list of students. It's a fairly basic application to be deployed on behalf of the POZOS company.
 
 The application is divided into microservices: 
+
 Module 1 : is a REST API including very basic authentication, the API transmits the desired student list in JSON format.
+
 Module 2 : is a php and html web application enabling the user to interpret the results of requests transmitted to the API and display them on the browser.
 
 ## Infrastructure
