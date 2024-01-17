@@ -135,7 +135,7 @@ docker push carlfg/webapi:v1.3
 cd /home/$USR
 nano studentlist_compose.yml
 ````
-![Alt text](img/image-17.png)
+>![Alt text](img/image-17.png)
 ````
 
 
