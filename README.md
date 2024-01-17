@@ -136,7 +136,7 @@ cd /home/$USR
 nano studentlist_compose.yml
 ````
 >![Alt text](img/image-17.png)
-````
+
 
 
 2. Launching docker compose :
