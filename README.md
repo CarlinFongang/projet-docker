@@ -172,6 +172,6 @@ docker ps
 >![Alt text](img/image-15.png)
 
 ## This concludes my Docker mini-project run report.
-During this project, I had to build the image integrating the POZOS company's API service to facilitate its deployment in a test or production environment, I configured the Application we / API server networks as well as the private registry container networks, I created and mounted persistent volumes and deployed microservices using docker-compose. 
+During this project, I had to build the image integrating the POZOS company's API service to facilitate its deployment in a test or production environment, I configured the Application web / API server networks, as well as the private registry container networks services, I created and mounted persistent volumes and deployed microservices using docker-compose. 
 
 This project was an enriching experience that enabled me to strengthen my technical skills and gain a better understanding of the principles of mciroservices.
